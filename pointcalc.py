@@ -1,4 +1,4 @@
-tot = raw_input('Number of Points? ') #presumably everything is waited the same
+tot = raw_input('Number of Points? ') #presumably everything is weighted the same
 tot = int(tot)
 half = raw_input('Half points? yes/no ') #please to god just use yes or no
 #sorry if you want more than half points
